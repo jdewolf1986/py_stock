@@ -1,0 +1,19 @@
+App that shows stock info based on the input of an stock ticker.
+
+Page layout:
+
+Graph()
+    Title = ticker
+    x=time [20 years, 3, YTD
+    y=price
+
+
+
+
+
+Wishlist:
+- drop down menu with available tickers
+- database that stores all the stock data displayed on site
+- webpage as gui
+- user profiles and user auth
+
